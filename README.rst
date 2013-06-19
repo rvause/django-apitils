@@ -4,6 +4,8 @@ django-apitils
 
 Some simple utilities for common API functionality in Django apps
 
+.. image:: https://travis-ci.org/rvause/django-apitils.png?branch=master
+
 
 Installation
 ============
